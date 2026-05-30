@@ -1,6 +1,6 @@
 name = "gdstk_jll"
 uuid = "422db8d9-1093-5d15-9159-3e4b0a372358"
-version = "0.9.59+0"
+version = "0.9.60+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

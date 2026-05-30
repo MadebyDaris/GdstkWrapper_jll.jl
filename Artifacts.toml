@@ -172,3 +172,86 @@ os = "windows"
     [[gdstk.download]]
     sha256 = "25d4b74222ec165dde053b00ff67df64429f46904746957f0de5e23b291675f7"
     url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.59+0/gdstk.v0.9.59.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "aarch64"
+git-tree-sha1 = "9bf307dd27f2829560aadb2a89a7a4e0995b6f6e"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[gdstk.download]]
+    sha256 = "37e4b5f80a24abdb2d6ae7642ea6ff544caed41bda263b8d9bbf9b1f1f528b3b"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e409690540871e94271489cebe6f7435faef091"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[gdstk.download]]
+    sha256 = "04bf622f80ce6a08c41ff13940ef3d1576da50e2a2e9d59860cdfd409b7f7daf"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18b2cf02644c8cc78f9027a9072c5bcb28c6f617"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[gdstk.download]]
+    sha256 = "975860f0b9eaec3a022c14431e689d82f81c21aec27b20f46c01d79e737e97d0"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8b6f42cfe1652e43b0bf93cc32e7254a3ae7fa6a"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[gdstk.download]]
+    sha256 = "5522fbbb1c66c8e1bdb8166aff794c773891cf49b9adabde26b6db693aca980e"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "x86_64"
+git-tree-sha1 = "ef4fda923a126da32da3637c4ca6112dd01edf47"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[gdstk.download]]
+    sha256 = "88d887d0d69d70a224e28c06330d755d655db5ab891ae1864047c2dbd0abb890"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "786c31d98b8b60f132f2af13281960fd39b5eee5"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[gdstk.download]]
+    sha256 = "76255322518daa39a1354b0f6bbf05b7b20b100cf1d2147b360a53ac20c1f11b"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ca3665f5733e0de716f6fa57739f15bbddf5d45"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[gdstk.download]]
+    sha256 = "576083398281ddbbd6db5ba39a58a36d6db14a0adc0413bfb7f5738071c11f83"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[gdstk]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d5fdc70076520fb88c58b9a5dd243055e684708"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[gdstk.download]]
+    sha256 = "0238fe9fb91eccbfda46c9610cc1a1e841749c44f72138e42a86657805d3e7b7"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.60+0/gdstk.v0.9.60.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
