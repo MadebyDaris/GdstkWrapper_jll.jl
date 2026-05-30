@@ -1,6 +1,6 @@
 name = "gdstk_jll"
 uuid = "422db8d9-1093-5d15-9159-3e4b0a372358"
-version = "0.9.55+0"
+version = "0.9.57+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -12,7 +12,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.7.0"
-julia = "1.11"
+julia = "~1.11"
 libcxxwrap_julia_jll = "~0.14"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
