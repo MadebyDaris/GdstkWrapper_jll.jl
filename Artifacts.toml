@@ -5,7 +5,7 @@ os = "macos"
 
     [[gdstk.download]]
     sha256 = "065ba4ec18b9a8834615b45887e23ee8707a548e8cebc45287b3a58fd2bb0ed4"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.aarch64-apple-darwin.tar.gz"
 [[gdstk]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[gdstk.download]]
     sha256 = "17ec2299eb8e4d119c4db7a399dc434a1353f27c46e38697e0a58f0e62fed0e1"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.aarch64-linux-gnu-cxx11.tar.gz"
 [[gdstk]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[gdstk.download]]
     sha256 = "76e2e453c9b0c5a7d5b6eb9a541d675bb9d90812f05e3dd4dce2f74dedd4dc6c"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.aarch64-linux-musl-cxx11.tar.gz"
 [[gdstk]]
 arch = "aarch64"
 git-tree-sha1 = "6cbfb0a52932a4cc7c8d800c9bb7239dcb35dc64"
@@ -33,7 +33,7 @@ os = "freebsd"
 
     [[gdstk.download]]
     sha256 = "a7c88981b82051a0551e6ab1b07dc353ba09e3b44b66fb0b0ad575bdc6e047c7"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.aarch64-unknown-freebsd.tar.gz"
 [[gdstk]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -43,7 +43,7 @@ os = "linux"
 
     [[gdstk.download]]
     sha256 = "206588c7bb8e8d2cffbfa638c985fdf3d1d5cc92f8327c3655a116eb2d68e3ec"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[gdstk]]
 arch = "x86_64"
 git-tree-sha1 = "20df8628973b960d0b4a0d5134d9efb1ac8176e4"
@@ -51,7 +51,7 @@ os = "macos"
 
     [[gdstk.download]]
     sha256 = "68f9a4fd5a82a86b6d937d607774c71220fd94561258860851e2c47bf5a90656"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.x86_64-apple-darwin.tar.gz"
 [[gdstk]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[gdstk.download]]
     sha256 = "b20a096615f611af74eeb9d5046dd375473b4397eccabc9bf8bebe9cb258ee40"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.x86_64-linux-gnu-cxx11.tar.gz"
 [[gdstk]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -71,7 +71,7 @@ os = "linux"
 
     [[gdstk.download]]
     sha256 = "d48037b5de0953d46765851c0106ff92e06e082eb934a6a25f875987edfa535b"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.x86_64-linux-musl-cxx11.tar.gz"
 [[gdstk]]
 arch = "x86_64"
 git-tree-sha1 = "8ccaf4accae2a424145412b8ce57b82ce3afc5a6"
@@ -79,7 +79,7 @@ os = "freebsd"
 
     [[gdstk.download]]
     sha256 = "1687675cd68a5975c9c034da6bfa5c318db0fa2ce307caa56498987d36c14bac"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.x86_64-unknown-freebsd.tar.gz"
 [[gdstk]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -88,4 +88,4 @@ os = "windows"
 
     [[gdstk.download]]
     sha256 = "8071b1fece1be57f46aae0ab96115f6d8cb84d204752e74b485f0ad46be24bc9"
-    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.54+0/gdstk.v0.9.54.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/MadebyDaris/GdstkWrapper_jll.jl/releases/download/gdstk-v0.9.55+0/gdstk.v0.9.55.x86_64-w64-mingw32-cxx11.tar.gz"
