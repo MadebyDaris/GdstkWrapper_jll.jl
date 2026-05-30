@@ -1,0 +1,17 @@
+name = "gdstk_jll"
+uuid = "422db8d9-1093-5d15-9159-3e4b0a372358"
+version = "0.9.54+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
+Qhull_jll = "784f63db-0788-585a-bace-daefebcd302b"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.10"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
